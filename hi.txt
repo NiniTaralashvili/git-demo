@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "hi sandro"
+cvladi="hi sandro"
+echo $cvladi
+echo "rogor xar?"
