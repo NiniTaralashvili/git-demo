@@ -3,5 +3,3 @@ cvladi="hi sandro"
 echo $cvladi
 echo "rogor xar?"
  bla blu
-
-jkhjh/////////////////////////
